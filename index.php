@@ -137,6 +137,7 @@ function print_ra($arr) {
 ?>
 <br clear="both">
 <strong>REFERENCES</strong>
+<a href="http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-(1).aspx">http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-(1).aspx</a>
 <a href="http://grandtextauto.org/2005/08/01/christopher-strachey-first-digital-artist/">http://grandtextauto.org/2005/08/01/christopher-strachey-first-digital-artist/</a>
 <a href="http://gnoetrydaily.wordpress.com/2010/07/13/2-strachey-love-letters/">http://gnoetrydaily.wordpress.com/2010/07/13/2-strachey-love-letters/</a>
 <a href="http://alpha60.de/research/muc/">http://alpha60.de/research/muc/</a>
