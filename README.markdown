@@ -5,10 +5,10 @@ A PHP implementation of Christopher Strachey's "Loveletters" program (1952)
 ## Background
 
 The original was one of the earliest computer programs.  
-This version was created as research for a project with [MoSI](http://www.mosi.org.uk)  
-[http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-\(1\).aspx](http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-\(1\).aspx)  
+This version was created as research for a project with the [Museum of Science and Industry](http://www.mosi.org.uk).  
+Read more: [http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-\(1\).aspx](http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-\(1\).aspx)  
 
-## References
+### References
 
 [http://grandtextauto.org/2005/08/01/christopher-strachey-first-digital-artist/](http://grandtextauto.org/2005/08/01/christopher-strachey-first-digital-artist/)  
 [http://gnoetrydaily.wordpress.com/2010/07/13/2-strachey-love-letters/](http://gnoetrydaily.wordpress.com/2010/07/13/2-strachey-love-letters/)  
