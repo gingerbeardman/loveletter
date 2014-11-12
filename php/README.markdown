@@ -1,10 +1,6 @@
 # loveletter
 
-An implementation of Christopher Strachey's "Loveletters" program (1952)
-
-- Original PHP implementation by @gingerbeardman  
-- Python port by @fabiantheblind  
-
+A PHP implementation of Christopher Strachey's "Loveletters" program (1952)
 
 ## Background
 
