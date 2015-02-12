@@ -2,6 +2,10 @@
 
 A PHP implementation of Christopher Strachey's "Loveletters" program (1952)
 
+## Try it
+
+[http://www.gingerbeardman.com/loveletter/](http://www.gingerbeardman.com/loveletter/)
+
 ## Background
 
 The original was one of the earliest computer programs.  
