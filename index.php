@@ -91,12 +91,17 @@ for($i=0; $i<5; $i++) {
 	}
 }
 $adv = rel($advs);
-$ll .= sprintf(".\n     Yours %s,\n     M.U.C.\n\n", $adv);
+$ll .= sprintf(".\n     Yours %s,\n     M.U.C.\n", $adv);
 
 echo "<em>";
 echo str_replace('  ', ' ', $ll);
 echo "</em>";
 
+?>
+
+<a href="/loveletter/">Generate another loveletter</a>
+
+<?php
 echo "<ul>";
 echo "<li><strong>salutations1</strong>\n";
 print_ra($sals1);
