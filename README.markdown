@@ -8,8 +8,9 @@ A PHP implementation of Christopher Strachey's "Loveletters" program (1952)
 
 ## Background
 
-The original was one of the earliest computer programs.  
-This version was created as research for a project with the [Museum of Science and Industry](http://www.mosi.org.uk) for their Revolution Manchester exhibition.  
+The original was one of the earliest computer programs.
+
+This version was created as research for a project I worked on for the [Museum of Science and Industry](http://www.mosi.org.uk) for their Revolution Manchester exhibition.  
 
 Read more:
 * http://www.msimanchester.org.uk/en/whats-on/gallery/revolution-manchester
