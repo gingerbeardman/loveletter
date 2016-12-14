@@ -14,7 +14,7 @@ Read more: [http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferr
 
 ### References
 
-* [https://web.archive.org/web/20141003094743/http://grandtextauto.org/2005/08/01/christopher-strachey-first-digital-artist/](https://web.archive.org/web/20141003094743/http://grandtextauto.org/2005/08/01/christopher-strachey-first-digital-artist/)  
+* [https://grandtextauto.soe.ucsc.edu/2005/08/01/christopher-strachey-first-digital-artist/](https://grandtextauto.soe.ucsc.edu/2005/08/01/christopher-strachey-first-digital-artist/)  
 * [http://gnoetrydaily.wordpress.com/2010/07/13/2-strachey-love-letters/](http://gnoetrydaily.wordpress.com/2010/07/13/2-strachey-love-letters/)  
 * [http://www.alpha60.de/art/love_letters/](http://www.alpha60.de/art/love_letters/)  
 
