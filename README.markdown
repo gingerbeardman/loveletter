@@ -10,7 +10,7 @@ A PHP implementation of Christopher Strachey's "Loveletters" program (1952)
 
 The original was one of the earliest computer programs.  
 This version was created as research for a project with the [Museum of Science and Industry](http://www.mosi.org.uk).  
-Read more: [http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-\(1\).aspx](http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-\(1\).aspx)  
+Read more: [https://web.archive.org/web/20151018024547/http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-(1).aspx](https://web.archive.org/web/20151018024547/http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-(1).aspx)  
 
 ### References
 
