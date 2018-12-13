@@ -1,6 +1,7 @@
 # shamelessly ported from
 # https://raw.githubusercontent.com/gingerbeardman/loveletter/master/index.php
 import random
+import re
 sals1 = ["Beloved", "Darling", "Dear", "Dearest", "Fanciful", "Honey"]
 
 sals2 = ["Chickpea", "Dear", "Duck", "Jewel", "Love", "Moppet", "Sweetheart"]
@@ -49,6 +50,7 @@ for i in range(5):
         last = SHORT
 
 adv = random.choice(advs)
+ll = re.sub(' +', ' ',ll)
 ll += ".\n     Yours %s,\n     M.U.C.\n\n" % (adv)
 
 print ll
