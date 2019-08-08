@@ -53,7 +53,7 @@ adv = random.choice(advs)
 ll = re.sub(' +', ' ',ll)
 ll += ".\n     Yours %s,\n     M.U.C.\n\n" % (adv)
 
-print ll
+print(ll)
 
 with open("loveletters.txt", "a") as myfile:
     myfile.write(ll + "\n\n")

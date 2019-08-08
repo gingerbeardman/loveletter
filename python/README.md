@@ -1,15 +1,14 @@
-loveletters
-===========
+# Loveletters
 
-     My  rapture  pants for your unsatisfied appetite.  My seductive adoration  attracts your winning infatuation.  My  affection passionately clings to your amorous fellow feeling.  My  longing fervently longs for your  passion. You are my loving rapture.
-     Yours tenderly,
-     M.U.C.
-
+```plain
+My rapture pants for your unsatisfied appetite. My seductive adoration  attracts your winning infatuation. My affection passionately clings to your amorous fellow feeling. My longing fervently longs for your  passion. You are my loving rapture.
+Yours tenderly,
+M.U.C.
+```
 
 Shamelessly ported from [gingerbeardman/loveletter](https://github.com/gingerbeardman/loveletter)  
 
-A Python implementation of Christopher Strachey's "Loveletters" program (1952)  
-
+A Python 3.* implementation of Christopher Strachey's "Loveletters" program (1952)  
 
 ## Background
 
@@ -24,4 +23,5 @@ Read more: [http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferr
 [http://www.alpha60.de/art/love_letters/](http://www.alpha60.de/art/love_letters/)  
 
 ### License
+
 This is made available under a [Creative Commons Attribution-Share Alike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0).  
