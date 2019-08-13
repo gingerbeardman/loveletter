@@ -19,7 +19,7 @@ verbs = ["adores", "attracts", "clings to", "holds dear", "hopes for", "hungers 
 LONG = 1
 SHORT = 2
 last = None
-ll = ""
+ll = "%s %s,\n     " % (random.choice(sals1), random.choice(sals2))
 for i in range(5):
     if random.randint(0, 9) < 5:
         # long
