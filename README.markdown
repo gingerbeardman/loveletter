@@ -2,6 +2,8 @@
 
 A PHP implementation of Christopher Strachey's "Loveletters" program (1952)
 
+Written in 2010 for inclusion in an exhibition at MOSI (Science and Industry Museum).
+
 ## Try it
 
 [http://www.gingerbeardman.com/loveletter/](http://www.gingerbeardman.com/loveletter/)
