@@ -2,8 +2,6 @@
 
 A PHP implementation of Christopher Strachey's "Loveletters" program (1952)
 
-Written in 2010 for inclusion in an exhibition at MOSI (Science and Industry Museum).
-
 ## Try it
 
 [http://www.gingerbeardman.com/loveletter/](http://www.gingerbeardman.com/loveletter/)
@@ -12,10 +10,10 @@ Written in 2010 for inclusion in an exhibition at MOSI (Science and Industry Mus
 
 The original was one of the earliest computer programs.
 
-This version was created as research for a project I worked on for the [Museum of Science and Industry](http://www.mosi.org.uk) for their Revolution Manchester exhibition.  
+This version was created as research for a project I worked on for the [Museum of Science and Industry](http://www.mosi.org.uk) for their Revolution Manchester exhibition in 2010. A version of this code was ported to Objective-C and included in an iPad app for visitors to play with. 
 
 Read more:
-* http://www.msimanchester.org.uk/en/whats-on/gallery/revolution-manchester
+* [http://www.msimanchester.org.uk/en/whats-on/gallery/revolution-manchester](http://www.msimanchester.org.uk/en/whats-on/gallery/revolution-manchester)
 * [https://web.archive.org/web/20151018024547/http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-(1).aspx](https://web.archive.org/web/20151018024547/http://www.mosi.org.uk/about-us/news/mosi-writes-love-letter-to-ferranti-(1).aspx)
 
 ### References
